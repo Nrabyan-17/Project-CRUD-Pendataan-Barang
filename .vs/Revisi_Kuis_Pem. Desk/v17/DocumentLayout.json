@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Revisi_Kuis_Pem. Desk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B95DE1D-3C60-4B47-B062-4DEA045443D6}|Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk.vbproj|c:\\users\\lenovo\\source\\repos\\revisi_kuis_pem. desk\\revisi_kuis_pem. desk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1B95DE1D-3C60-4B47-B062-4DEA045443D6}|Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk.vbproj|solutionrelative:revisi_kuis_pem. desk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B95DE1D-3C60-4B47-B062-4DEA045443D6}|Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk.vbproj|c:\\users\\lenovo\\source\\repos\\revisi_kuis_pem. desk\\revisi_kuis_pem. desk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1B95DE1D-3C60-4B47-B062-4DEA045443D6}|Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk.vbproj|solutionrelative:revisi_kuis_pem. desk\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "RelativeDocumentMoniker": "Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "RelativeToolTip": "Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwMMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-08T07:32:30.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "RelativeDocumentMoniker": "Revisi_Kuis_Pem. Desk\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Revisi_Kuis_Pem. Desk\\Revisi_Kuis_Pem. Desk\\Form1.vb [Design]",
+              "RelativeToolTip": "Revisi_Kuis_Pem. Desk\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-08T07:31:42.547Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
